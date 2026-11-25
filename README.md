@@ -70,6 +70,17 @@ flowchart TD
     MONITOR -->|Scrape| METRICS
 ```
 
+
+### Detailed Application Design
+
+The detailed application design documents the business
+requirements, application architecture, user journeys,
+request lifecycle, database relationships, API contracts,
+security requirements and Blue-Green release behaviour.
+
+[Read the AgriCommerce Application Concept and Architecture](docs/architecture/APPLICATION-DESIGN.md)
+
+
 ## Functional Scope
 
 - Product catalogue.
